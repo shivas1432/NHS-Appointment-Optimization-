@@ -1,0 +1,11 @@
+﻿{
+  "endpoint": "https://api.nhs.uk",
+  "version": "v1",
+  "timeout": 5000,
+  "regions": ["england", "scotland", "wales", "northern_ireland"],
+  "services": {
+    "appointments": "/appointments",
+    "patients": "/patients",
+    "practitioners": "/practitioners"
+  }
+}
