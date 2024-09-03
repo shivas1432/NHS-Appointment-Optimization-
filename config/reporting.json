@@ -1,0 +1,21 @@
+﻿{
+  "metrics": [
+    "wait_times",
+    "utilization_rates",
+    "patient_satisfaction",
+    "appointment_cancellations",
+    "no_show_rates",
+    "practitioner_efficiency"
+  ],
+  "refresh_intervals": {
+    "real_time": 30,
+    "hourly": 3600,
+    "daily": 86400
+  },
+  "export_formats": ["pdf", "csv", "json", "excel"],
+  "automated_reports": {
+    "daily_summary": "07:00",
+    "weekly_analysis": "monday_09:00",
+    "monthly_review": "first_monday_09:00"
+  }
+}
