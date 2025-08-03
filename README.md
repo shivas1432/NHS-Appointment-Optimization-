@@ -16,9 +16,37 @@ This production-ready application showcases advanced React/TypeScript developmen
 - **18.5 days** average wait time reduction
 - **125,847** appointments successfully optimized
 
-## 🚀 Live Demo
+## 🚀 Live Demo & Screenshots
 
-[View Live Application](https://nhs-appointments.netlify.app) | [API Documentation](./docs/api.md)
+### 🖥️ **Main Dashboard Overview**
+![NHS Dashboard](demo/1.png)
+*Comprehensive appointment management dashboard showing real-time availability, waitlist optimization, and cost savings analytics*
+
+### 📊 **Analytics & Performance Metrics**
+![Analytics Dashboard](demo/2.png)
+*Advanced analytics showing missed appointment reduction, cost savings, and trust performance benchmarking across NHS regions*
+
+### 📱 **Appointment Booking Flow**
+![Appointment Booking](demo/3.png)
+*Intelligent appointment discovery with travel time calculations, specialty filtering, and real-time availability across 500+ NHS trusts*
+
+### 🔍 **Smart Waitlist Management**
+![Waitlist Management](demo/4.png)
+*AI-powered waitlist optimization with automatic patient matching and priority-based slot allocation*
+
+### 📈 **Cost Savings Calculator**
+![Cost Analysis](demo/5.png)
+*Real-time cost impact analysis demonstrating potential £2.8M annual savings per NHS trust through reduced missed appointments*
+
+### 📲 **Mobile-First Patient Experience**
+![Mobile Interface](demo/6.png)
+*Responsive mobile design optimized for patients and NHS staff with accessibility features and multi-language support*
+
+---
+
+## 🎯 Live Application
+
+**[🔗 View Live Demo](https://nhs-appointments.netlify.app)** | **[📖 API Documentation](./docs/api.md)**
 
 ## 📋 Core Features
 
@@ -110,15 +138,14 @@ The application includes realistic mock data representing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nhs-appointment-platform.git
-cd nhs-appointment-platform
+git clone https://github.com/shivas1432/NHS-Appointment-Optimization-.git
+cd NHS-Appointment-Optimization-
 
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-```
 
 ### Development Scripts
 
